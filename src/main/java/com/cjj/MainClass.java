@@ -5,5 +5,6 @@ public class MainClass {
         System.out.println("asdasd");
         System.out.println("master");
         System.out.println("hotfix");
+        System.out.println("push1");
     }
 }
